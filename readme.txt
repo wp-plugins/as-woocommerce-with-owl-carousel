@@ -31,14 +31,16 @@ Note! Carousel Name must be an unique name. If you not use unique name so carous
 4. Fully responsive,
 5. Work With all latest Version WordPress,
 6. Mobile Touch,
-7. Many more option.
+7. Many more option,
+8. 9 Deterrent button,
+9. 6 Deterrent carousel icon.
 
 
 All credit goes to Owl Carousel and Woocommerce
 
 == Installation ==
 
-1. Upload ‘as-owl-carousel‘ folder to the ‘/wp-content/plugins/’ directory or Install as a regullar WordPress plugin
+1. Upload ‘as-woocommerce-with-owl-carousel‘ folder to the ‘/wp-content/plugins/’ directory or Install as a regullar WordPress plugin
 2. You will see a options page go to Appearance > As option and create short code.
 
 == Screenshots ==
