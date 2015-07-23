@@ -47,9 +47,11 @@ All credit goes to Owl Carousel and Woocommerce
 
 == Screenshots ==
 
-1. installed in test server option demo all shortcode creator option.
-2. 9 Deterrent button or 6 Deterrent carousel icon.
-3. Shortcode creator enging output.
+1. Demo 1.
+2. Demo 2.
+3. installed in test server option demo all shortcode creator option.
+4. 9 Deterrent button or 6 Deterrent carousel icon.
+5. Shortcode creator enging output.
 
 == Changelog ==
 
