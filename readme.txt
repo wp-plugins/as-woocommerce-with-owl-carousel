@@ -35,6 +35,8 @@ Note! Carousel Name must be an unique name. If you not use unique name so carous
 8. 9 Deterrent button,
 9. 6 Deterrent carousel icon.
 
+See on <a href="https://github.com/anuislam/as-woocommerce-with-owl-carousel">github.com</a>
+
 
 All credit goes to Owl Carousel and Woocommerce
 
