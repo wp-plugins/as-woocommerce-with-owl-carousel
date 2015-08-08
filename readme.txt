@@ -55,5 +55,12 @@ All credit goes to Owl Carousel and Woocommerce
 
 == Changelog ==
 
+= 1.2 =
+*Release Date - 8th August, 2015*
+* Include some html, css.
+
 = 1.0 =
 * Initial Release 
+
+== Upgrade Notice ==
+Upgrade to Version 1.2
